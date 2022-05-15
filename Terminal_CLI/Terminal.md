@@ -26,6 +26,7 @@ needed in the coding environment like
 **Terminal** is a powerful tool and is going to be clearer in the next
 upcoming sessions. you will get used to it so don’t worry. 😉
 
+
 ### Installation:
 
   - In Mac/Linux, Terminal is a pre-installed program on the system. (You don’t need to install it)
